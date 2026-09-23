@@ -1,0 +1,44 @@
+[
+  {
+    "id": "verif-1790159953488-gcoj4",
+    "discordId": "1509579941187026985",
+    "discordTag": "addidas_652",
+    "discordAvatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+    "robloxId": "4344552959",
+    "robloxUsername": "addidas_652",
+    "robloxDisplayName": "addidas_652",
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7BDD7B5B32FC0D79BA7365660EC4DC90-Png/150/150/AvatarHeadshot/Png/isCircular",
+    "verifiedAt": "2026-09-23T10:39:13.488Z",
+    "rulesAccepted": true,
+    "rulesAcceptedAt": "2026-09-23T10:39:13.488Z",
+    "guildId": "1509580529958129794",
+    "rolesUpdated": true,
+    "sheetsSynced": true,
+    "roleDetails": {
+      "removedRole": "1535239314798149673",
+      "addedRole": "1518517334413672519",
+      "success": true,
+      "message": "Rôle retiré (1535239314798149673) et rôle ajouté (1518517334413672519) avec succès !"
+    }
+  },
+  {
+    "id": "verif-1790086941905-wfada",
+    "discordId": "1509785247892639804",
+    "discordTag": "polo2738jiji",
+    "discordAvatar": "https://api.dicebear.com/7.x/bottts/svg?seed=1509785247892639804",
+    "robloxId": "3609116897",
+    "robloxUsername": "polo2738jiji",
+    "robloxDisplayName": "polo2738jiji",
+    "robloxAvatarUrl": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-90F17F05B4E227877A226E2AE0808A55-Png/150/150/AvatarHeadshot/Png/isCircular",
+    "verifiedAt": "2026-09-22T14:22:21.905Z",
+    "guildId": "1509580529958129794",
+    "rolesUpdated": true,
+    "sheetsSynced": true,
+    "roleDetails": {
+      "removedRole": "1535239314798149673",
+      "addedRole": "1518517334413672519",
+      "success": true,
+      "message": "Rôle retiré (1535239314798149673) et rôle ajouté (1518517334413672519) avec succès !"
+    }
+  }
+]

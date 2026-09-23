@@ -1,0 +1,6 @@
+{
+  "name": "Tarbes RP - Vérification",
+  "description": "Système de vérification officiel pour Tarbes RP liant Discord et Roblox avec gestion des rôles Discord et synchronisation Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
